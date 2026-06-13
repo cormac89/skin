@@ -1886,7 +1886,7 @@ dl.codebox code {
 
 .perfil-cancion {
   flex: 1;
-  height: 61px;
+  height: 58px;
   box-sizing: border-box;
   border: 1px solid var(--border2);
   background-color: var(--trans3);
@@ -1998,4 +1998,5 @@ dl.codebox code {
     letter-spacing: 1px;
     margin-left: 15px;
     font-size: 11px;
+  line-height: 0.9;
 }
