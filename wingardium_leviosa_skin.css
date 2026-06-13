@@ -1886,7 +1886,7 @@ dl.codebox code {
 
 .perfil-cancion {
   flex: 1;
-  height: 58px;
+  height: 61px;
   box-sizing: border-box;
   border: 1px solid var(--border2);
   background-color: var(--trans3);
