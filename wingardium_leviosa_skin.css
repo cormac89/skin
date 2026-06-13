@@ -1562,7 +1562,6 @@ dl.codebox code {
   width: 310px;
   height: 400px;
   overflow: hidden;
-  border: 2px solid var(--border2);
 }
 
 .perfil-avatar-img img {
