@@ -1905,14 +1905,6 @@ dl.codebox code {
   margin-right: 5px;
 }
 
-.perfil-dinero {
-  width: 10%;
-  border: 1px solid var(--border2);
-  background-color: var(--trans3);
-  margin-left: 5px;
-  display: flex;
-}
-
 .perfil-flu {
   width: 10%;
   border: 1px solid var(--border2);
