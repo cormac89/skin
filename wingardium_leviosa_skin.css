@@ -37,7 +37,6 @@
     height: 60px;
     border: 5px solid var(--accent-op);
     border-radius: 50%;
-    overflow: hidden;
     margin-top: 15px;
 }
 
@@ -49,6 +48,8 @@
 
 .fl_avatar_img img {
   width: 60px;
+  height: 60px;
+  object-fit: cover;
 }
 
 .fl_nav ul.navlinks {
